@@ -1,2 +1,2 @@
 # Swift Examples
-Code examples in Swift 5
+Examples in Swift 5
